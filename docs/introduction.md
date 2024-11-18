@@ -4,7 +4,7 @@
 
 ### Fonctionnement d'un site web : Client-Serveur
 
-![Diagramme client-serveur](docs\assets\images\Client.png)
+![Diagramme client-serveur](.\assets\images\Client.png)
 
 Le modèle client-serveur est fondamental pour le fonctionnement des sites web. Il puise ses origines dans les débuts d'Internet et l'invention du Web par Tim Berners-Lee dans les années 1990. Les premiers navigateurs permettaient de consulter des documents en ligne via un échange de requêtes et de réponses entre ordinateurs. Ce modèle, inspiré d'architectures réseau des années 1970, sépare les rôles : le serveur stocke et gère l'information, le client la consulte. Avec l'essor d'Internet, ce modèle a évolué pour permettre des interactions complexes (authentification, stockage de données, contenus dynamiques). Les pages web interactives se mettent à jour en temps réel grâce à AJAX et les API, tout en reposant sur ce modèle classique.
 
