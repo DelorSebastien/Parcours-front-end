@@ -1,5 +1,5 @@
 # MIT License
-
+![Licence MIT](https://img.shields.io/badge/licence-MIT-blue.svg)
 ## Copyright (c) 2024 Sebastien Delor - Devsociety
 
 Par la présente, il est accordé, gratuitement, à toute personne obtenant une copie de ce logiciel et des fichiers associés (le "Logiciel"), 

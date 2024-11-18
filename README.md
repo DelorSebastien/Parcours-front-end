@@ -1,4 +1,5 @@
 # Parcours Front-End - DevSociety
+![Licence MIT](https://img.shields.io/badge/licence-MIT-blue.svg)
 
 Bienvenue dans le parcours Front-End de **DevSociety** ! Ce projet vous guidera à travers les concepts clés du développement Front-End, en vous offrant des ressources, des tutoriels et un suivi étape par étape.
 
